@@ -1,0 +1,89 @@
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\bin\Debug\TestNetwork.exe
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\bin\Debug\TestNetwork.pdb
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\obj\x86\Debug\TestNetwork.exe
+C:\Users\mycom\AppData\Local\Temporary Projects\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Pojo\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project - Copy\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\Project - Copy\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+G:\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+H:\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+C:\Users\NAKO\Desktop\ให้เหมียว\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojResolveAssemblyReference.cache
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+D:\ปีการศึกษา 2561\1-2561\ER431 การเขียนโปรแกรมคอมพิวเตอร์เครือข่าย\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.Cache
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.exe
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\bin\Debug\TestNetwork.pdb
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csprojAssemblyReference.cache
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Form1.resources
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.Properties.Resources.resources
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.GenerateResource.cache
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.csproj.CoreCompileInputs.cache
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.exe
+C:\Users\kukkik\Downloads\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork แก้พร้อมส่ง\ProjectNetwork ล่าสุดที่สุด - แก้ป้องกันการไม่กรอกข้อมูล\TestNetwork\TestNetwork\obj\x86\Debug\TestNetwork.pdb
